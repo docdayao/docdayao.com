@@ -3,6 +3,8 @@ title: "I am Doc Dayao"
 date: 2021-02-28T20:43:30+08:00
 ---
 
+![docdayao photo](/img/docdayao170x167.jpg)
+
 I'm a full stack developer, an IT operations person, a teacher, and a business owner.
 
 ## More about me

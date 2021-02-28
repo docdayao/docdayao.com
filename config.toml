@@ -14,8 +14,8 @@ theme = "hugo-minimalist-theme"
     site_description = "Doc Dayao Blog Site"
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/docdayao170x167.jpg"
+    header_background = "img/banner1920x577.JPG"
     header_title = "Life is a dialogue."
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
