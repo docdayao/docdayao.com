@@ -1,5 +1,4 @@
-baseurl = "https://docdayao.com/"
-# baseurl = "https://example.org/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Doc Dayao"
 # Define how many pages appear per site
