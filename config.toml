@@ -1,6 +1,7 @@
-baseurl = "https://example.org/"
+baseurl = "https://docdayao.com/"
+# baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Everything about Doc Dayao"
+title = "Doc Dayao"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -11,12 +12,12 @@ theme = "hugo-minimalist-theme"
 
 [params]
     site_author = "Doc Dayao"
-    site_description = "Doc Dayao Blog Site"
-    location = "Earth"
+    site_description = "Doc Dayao's work"
+    # location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/docdayao170x167.jpg"
     header_background = "img/banner1920x577.JPG"
-    header_title = "Life is a dialogue."
+    header_title = "Life is a dialogue..."
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
@@ -39,3 +40,4 @@ theme = "hugo-minimalist-theme"
     instagram = "docdayao"
     github    = "docdayao"
     gplus     = ""
+    discord   = "atd#0421"
