@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://docdayao.com/post/another-post/</loc>
+    <lastmod>2021-02-28T21:00:07+08:00</lastmod>
+  </url><url>
+    <loc>https://docdayao.com/</loc>
+    <lastmod>2021-02-28T21:00:07+08:00</lastmod>
+  </url><url>
+    <loc>https://docdayao.com/post/</loc>
+    <lastmod>2021-02-28T21:00:07+08:00</lastmod>
+  </url><url>
+    <loc>https://docdayao.com/about/</loc>
+    <lastmod>2021-02-28T20:43:30+08:00</lastmod>
+  </url><url>
+    <loc>https://docdayao.com/post/hello-world/</loc>
+    <lastmod>2021-02-28T18:38:17+08:00</lastmod>
+  </url><url>
+    <loc>https://docdayao.com/categories/</loc>
+  </url><url>
+    <loc>https://docdayao.com/tags/</loc>
+  </url>
+</urlset>

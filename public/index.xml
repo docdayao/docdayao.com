@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doc Dayao</title>
+    <link>https://docdayao.com/</link>
+    <description>Recent content on Doc Dayao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 21:00:07 +0800</lastBuildDate><atom:link href="https://docdayao.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>https://docdayao.com/post/another-post/</link>
+      <pubDate>Sun, 28 Feb 2021 21:00:07 +0800</pubDate>
+      
+      <guid>https://docdayao.com/post/another-post/</guid>
+      <description>Another fantastic post on the blog. Do you want to read more about me?</description>
+    </item>
+    
+    <item>
+      <title>I am Doc Dayao</title>
+      <link>https://docdayao.com/about/</link>
+      <pubDate>Sun, 28 Feb 2021 20:43:30 +0800</pubDate>
+      
+      <guid>https://docdayao.com/about/</guid>
+      <description>I&amp;rsquo;m a full stack developer, an IT operations person, a teacher, and a business owner.
+More about me I have over 30 years of experience in building businesses, systems, and teams. My strength is in developing high-performing service delivery centers. I have done this several times by building happy and cohesive teams, implementing mature processes, establishing a culture with a deep sense of urgency and ownership, and providing great customer experiences.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://docdayao.com/post/hello-world/</link>
+      <pubDate>Sun, 28 Feb 2021 18:38:17 +0800</pubDate>
+      
+      <guid>https://docdayao.com/post/hello-world/</guid>
+      <description>Welcome to my blog site!
+There&amp;rsquo;s not much but stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
